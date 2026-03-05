@@ -8,4 +8,4 @@
 
 <p align="center">God bless you 💙</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ndebx&show_icons=true&locale=en&layout=compact" alt="ndebx" /></p>
+![My Skills](https://skillicons.dev/icons?i=python,ts,react,nodejs,rust,go)
