@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋,</h1>
 
-- 📚 **I study Software Engineering. Try to deepen and develop in expansion around Software and Cloud native computing**
+- 📚 **Try to deepen and develop in expansion around Software and Cloud native computing**
 
 - ☁️ **My passion, ambitions and fun is around DevOps and Distributed back-end systems, this is the area in which I want to develop myself in.**
 
